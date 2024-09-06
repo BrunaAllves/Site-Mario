@@ -32,3 +32,5 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 - [ ] Adicionar efeito de hover nos botões
 
 ## 📺 Tutorial no Youtube
+Leo Vargas
+(https://youtu.be/6Ok-kUrBGp8?list=PL4xFE_L54MBECBxWrdKPDMXj283e9tJ2E)
